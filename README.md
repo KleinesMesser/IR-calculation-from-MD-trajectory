@@ -1,6 +1,5 @@
 # IR-calculation-from-MD-trajectory
-Example codes of calculating IR spectrum from MD simulaions of an RNA oligomer
-This project contains code I currently used to calculate IR spectrum from MD simulations.
+This project contains codes I currently use to calculate IR spectrum from MD simulations.
 I and my coworkers developed the first frequency maps and coupling models within the nucleobase carbonyl stretch region. These models form a complete framework enabling one to predict the vibrational Hamiltonian from coordinate files generated from MD simulations.
 
 To understand the theoretical background, please refer to the following papers:
