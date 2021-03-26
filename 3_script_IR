@@ -1,5 +1,5 @@
 #This is a script to submit all the jobs required to calculate the IR spectrum from an MD trajectory (xyz format).
-./1_EF_traj.out 1_Coor.xyz 1_box.dat 1_EF_traj.dat
+./1_EF_traj.out 1_Coor.xyz 1_Box.dat 1_EF_traj.dat
 ./2_Freq_traj.out 1_EF_traj.dat 2_Freq_traj.dat
 ./2_Coup_traj_TCC.out 1_Coor.xyz 2_Coup_traj_TCC.dat
 ./2_TD_traj.out 1_Coor.xyz 2_TD_traj.dat
